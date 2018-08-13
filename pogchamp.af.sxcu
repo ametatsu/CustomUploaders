@@ -1,0 +1,7 @@
+{
+  "Name": "PogChamp AF",
+  "DestinationType": "ImageUploader, TextUploader",
+  "RequestURL": "https://api.pogchamp.af/upload",
+  "FileFormName": "media",
+  "URL": "$json:links.direct$"
+}
